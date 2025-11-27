@@ -1,13 +1,13 @@
-##🏥 Midway Hospital Website
+🏥 Midway Hospital Website
 
 A simple, responsive, and modern hospital website designed to display hospital details, departments, doctors, services, and contact information. The goal is to provide a clean and user-friendly interface for patients and visitors.
 
-##🏷️ Badges
-<p> <img src="https://img.shields.io/badge/Status-Active-brightgreen" /> 
-  <img src="https://img.shields.io/badge/Frontend-Completed-blue" /> 
-  <img src="https://img.shields.io/badge/License-MIT-yellow" /> 
-  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black" /> </p>
-##🛠️ Tech Stack
+🏷️ Badges
+<p> <img src="https://img.shields.io/badge/Status-Active-brightgreen" /> <b></b>
+  <img src="https://img.shields.io/badge/Frontend-Completed-blue" />  <b></b>
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />  <b></b>
+  <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black" /> </p>  <b></b>
+🛠️ Tech Stack
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" /> </p>
 🚀 Features
@@ -24,16 +24,16 @@ Modern and clean UI
 
 Fast, lightweight frontend
 
-##📦 Installation
+📦 Installation
 git clone https://github.com/your-username/midway-hospital.git
 cd midway-hospital
 npm install
 npm run dev
 
-##🏗️ Build for Production
+🏗️ Build for Production
 npm run build
 
-##🌐 Deployment
+🌐 Deployment
 
 This project can be deployed on:
 
@@ -43,6 +43,6 @@ Netlify
 
 GitHub Pages
 
-##📜 License
+📜 License
 
 This project is open-source under the MIT License.
