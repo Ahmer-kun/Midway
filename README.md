@@ -35,7 +35,7 @@ npm run build
 
 🌐 Deployment
 
-This project can be deployed on:
+This project is deployed on:
 
 Vercel
 
