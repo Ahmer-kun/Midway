@@ -1,0 +1,5 @@
+{
+  "name": "Midway Hospital",
+  "description": "A comprehensive web application for Midway Hospital, featuring services, doctor directories, and a smart health assistant to provide general information to patients.",
+  "requestFramePermissions": []
+}
