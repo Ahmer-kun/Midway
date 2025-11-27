@@ -25,7 +25,7 @@ Modern and clean UI
 Fast, lightweight frontend
 
 📦 Installation
-git clone https://github.com/your-username/midway-hospital.git
+git clone https://github.com/Ahmer-kun/Midway.git
 cd midway-hospital
 npm install
 npm run dev
