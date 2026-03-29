@@ -1,4 +1,4 @@
-
+//add email SVC later
 import { GoogleGenAI } from "@google/genai";
 
 export const askAIAssistant = async (prompt: string): Promise<string> => {
